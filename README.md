@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="./assets/bg.jpg" alt="bg" width="600"/></a>
+  <a><img src="./assets/bg.jpg" alt="bg" width="900"/></a>
 </p>
 
 # ❀⋅˚₊ ‧ ୨୧ About Me . . .ᐟ
@@ -30,6 +30,6 @@
 ---
 
 <p align="center">
-  <img src="./assets/lillies2.jpg" alt="Footer Image" width="600" />
+  <img src="./assets/lillies2.jpg" alt="Footer Image" width="900" />
 </p>
 
